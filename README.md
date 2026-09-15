@@ -45,8 +45,16 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/user-attachments/assets/4f54492e-ceb9-4408-ae9c-99a18d5ebfbd)
+![image](https://github.com/user-attachments/assets/4cf23e5d-0cd4-4283-bd63-b8426f09939b)
+![image](https://github.com/user-attachments/assets/1fd23621-b19f-4521-89a6-5434527d1c27)
+
+![Screenshot 2024-10-26 105840](https://github.com/user-attachments/assets/77854511-846b-454b-8645-825982d69f1b)
+
+
+
+### Name: THARINI N K
+### Register Number: 212225100056
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
